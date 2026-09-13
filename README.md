@@ -1,89 +1,72 @@
-<h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">🚀 Data Structures & Algorithms Enthusiast | Software Developer</h3>
+# Hi there, I'm Siddharth! 👋 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Solving+DSA+problems+daily+%F0%9F%94%A5;Breaking+down+complex+logic+%F0%9F%A7%A0;Building+efficient+software+%E2%9A%A1;Consistent+coding+streak+%F0%9F%93%88" alt="Typing SVG" />
-</p>
+### 💻 Full-Stack Developer & DSA Enthusiast
+A passionate developer dedicated to mastering **Data Structures & Algorithms**, solving complex problems on **LeetCode**, and building full-stack web applications using the **MERN stack**.
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-website.com)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**🎨 Languages**
-
+**Languages & Logic**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**💻 Tools & Platforms**
+**Web Development (MERN Stack)**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+**Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddharth-k12&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-k12&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-k12&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🚀 Projects & Highlights
+- 💼 **Job Portal Web App:** A full-stack recruitment platform with user authentication, job filtering, and application tracking built using the MERN stack.
+- 📚 **DSA Preparation:** A curated collection of optimized solutions for core Data Structures and LeetCode problems in C++.
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddharth-k12&theme=radical&no-frame=true&row=1&column=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
----
-
-### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-k12&theme=react-dark&hide_border=true" />
+  <img src="https://leetcode-stats-api.herokuapp.com/YOUR-LEETCODE-USERNAME" alt="LeetCode Stats" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph Matrix
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siddharth-k12/siddharth-k12/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> ⚙️ Note: The snake animation needs a one-time GitHub Actions workflow set up in your profile repo (`Platane/snk` action). Ask me and I'll write that workflow file for you too.
+![Snake Animation](https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📚 Currently Grinding
-
-- 🧠 Working through my **DSA-preparation** repository — arrays → trees → DP, one topic at a time.
-- 🎯 Chasing a consistent daily coding streak.
-- 💡 Turning gnarly LeetCode problems into simple, teachable logic.
-- 🌱 Next up: mastering graph algorithms and dynamic programming patterns.
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddharth-k12&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
-
-<p align="center"><i>⭐ From <a href="https://github.com/siddharth-k12">siddharth-k12</a> — thanks for stopping by!</i></p>
+### ⚡ Fun Facts About Me
+- 📚 Currently grinding through my **DSA-preparation** repository.
+- 💡 Love breaking down complex LeetCode problems into simple logic.
+- 🎯 Goal: Maintaining a consistent daily coding streak and shipping clean full-stack apps!
