@@ -62,7 +62,7 @@ A passionate developer dedicated to mastering **Data Structures & Algorithms**, 
 
 ### 🐍 Contribution Graph Matrix
 
-![Snake Animation](https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/siddharth-k12/siddharth-k12/output/github-contribution-grid-snake.svg)
 
 ---
 
